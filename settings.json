@@ -1,6 +1,5 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "javascript.validate.enable": false,
     "editor.fontSize": 12,
     "editor.rulers": [120],
     "editor.wordWrap": "wordWrapColumn",
@@ -24,19 +23,16 @@
     "extensions.autoUpdate": true,
     "diffEditor.renderSideBySide": false,
     "git.confirmSync": true,
-    "typescript.check.tscVersion": false,
     "window.openFilesInNewWindow": "on",
     "typescript.referencesCodeLens.enabled": false,
     "debug.inlineValues": true,
 
     "workbench.colorTheme": "Tomorrow Night Bright",
 
-    "gitlens.codeLens.enabled": false,
-    "gitlens.blame.file.lineHighlight.enabled": false,
-    "gitlens.blame.line.enabled": false,
-
     "window.zoomLevel": 0,
     "editor.codeLens": false,
     "editor.renderWhitespace": "none",
-    "editor.renderControlCharacters": false
+    "editor.renderControlCharacters": false,
+
+    "search.location": "panel"
 }
