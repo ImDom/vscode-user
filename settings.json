@@ -3,7 +3,7 @@
     "editor.fontSize": 12,
     "editor.rulers": [120],
     "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 160,
+    "editor.wordWrapColumn": 120,
     "editor.wrappingIndent": "none",
     "editor.minimap.enabled": true,
     "editor.minimap.renderCharacters": false,
@@ -22,7 +22,6 @@
     "extensions.autoUpdate": true,
     "diffEditor.renderSideBySide": false,
     "git.confirmSync": true,
-    "window.openFilesInNewWindow": "on",
     "typescript.referencesCodeLens.enabled": false,
     "debug.inlineValues": true,
 
