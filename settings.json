@@ -23,7 +23,9 @@
     "diffEditor.renderSideBySide": false,
     "git.confirmSync": true,
     "typescript.referencesCodeLens.enabled": false,
+
     "debug.inlineValues": true,
+    "debug.toolBarLocation": "docked",
 
     "workbench.colorTheme": "Tomorrow Night Bright",
 
